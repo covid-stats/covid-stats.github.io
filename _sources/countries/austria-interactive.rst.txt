@@ -1,0 +1,23 @@
+########
+Austria
+########
+
+
+.. raw:: html
+   :file: ../_static/plotly/austria-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/austria-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/austria-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/austria-percentage-difference-ratio.html
+

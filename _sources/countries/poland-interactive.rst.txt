@@ -1,0 +1,23 @@
+#######
+Poland
+#######
+
+
+.. raw:: html
+   :file: ../_static/plotly/poland-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/poland-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/poland-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/poland-percentage-difference-ratio.html
+

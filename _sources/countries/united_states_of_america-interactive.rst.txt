@@ -1,0 +1,23 @@
+#########################
+United_States_of_America
+#########################
+
+
+.. raw:: html
+   :file: ../_static/plotly/united_states_of_america-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/united_states_of_america-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/united_states_of_america-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/united_states_of_america-percentage-difference-ratio.html
+

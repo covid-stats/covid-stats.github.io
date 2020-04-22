@@ -1,0 +1,23 @@
+########
+Estonia
+########
+
+
+.. raw:: html
+   :file: ../_static/plotly/estonia-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/estonia-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/estonia-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/estonia-percentage-difference-ratio.html
+

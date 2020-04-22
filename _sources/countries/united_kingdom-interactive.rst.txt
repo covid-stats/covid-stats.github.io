@@ -1,0 +1,23 @@
+###############
+United_Kingdom
+###############
+
+
+.. raw:: html
+   :file: ../_static/plotly/united_kingdom-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/united_kingdom-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/united_kingdom-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/united_kingdom-percentage-difference-ratio.html
+

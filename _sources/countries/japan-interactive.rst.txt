@@ -1,0 +1,23 @@
+######
+Japan
+######
+
+
+.. raw:: html
+   :file: ../_static/plotly/japan-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/japan-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/japan-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/japan-percentage-difference-ratio.html
+

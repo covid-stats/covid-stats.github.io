@@ -1,0 +1,23 @@
+#######
+Canada
+#######
+
+
+.. raw:: html
+   :file: ../_static/plotly/canada-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/canada-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/canada-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/canada-percentage-difference-ratio.html
+

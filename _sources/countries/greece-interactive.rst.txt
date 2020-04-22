@@ -1,0 +1,23 @@
+#######
+Greece
+#######
+
+
+.. raw:: html
+   :file: ../_static/plotly/greece-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/greece-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/greece-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/greece-percentage-difference-ratio.html
+

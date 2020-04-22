@@ -1,0 +1,23 @@
+########
+Hungary
+########
+
+
+.. raw:: html
+   :file: ../_static/plotly/hungary-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/hungary-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/hungary-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/hungary-percentage-difference-ratio.html
+

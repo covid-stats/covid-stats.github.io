@@ -1,0 +1,23 @@
+#######
+Russia
+#######
+
+
+.. raw:: html
+   :file: ../_static/plotly/russia-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/russia-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/russia-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/russia-percentage-difference-ratio.html
+

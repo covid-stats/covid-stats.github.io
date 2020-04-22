@@ -1,0 +1,23 @@
+########
+Romania
+########
+
+
+.. raw:: html
+   :file: ../_static/plotly/romania-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/romania-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/romania-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/romania-percentage-difference-ratio.html
+

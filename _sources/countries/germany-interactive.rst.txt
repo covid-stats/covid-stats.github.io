@@ -1,0 +1,23 @@
+########
+Germany
+########
+
+
+.. raw:: html
+   :file: ../_static/plotly/germany-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/germany-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/germany-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/germany-percentage-difference-ratio.html
+

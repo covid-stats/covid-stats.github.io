@@ -1,0 +1,23 @@
+#######
+Mexico
+#######
+
+
+.. raw:: html
+   :file: ../_static/plotly/mexico-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/mexico-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/mexico-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/mexico-percentage-difference-ratio.html
+

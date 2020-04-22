@@ -1,0 +1,23 @@
+######
+Italy
+######
+
+
+.. raw:: html
+   :file: ../_static/plotly/italy-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/italy-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/italy-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/italy-percentage-difference-ratio.html
+

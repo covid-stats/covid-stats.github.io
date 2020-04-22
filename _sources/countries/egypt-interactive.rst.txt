@@ -1,0 +1,23 @@
+######
+Egypt
+######
+
+
+.. raw:: html
+   :file: ../_static/plotly/egypt-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/egypt-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/egypt-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/egypt-percentage-difference-ratio.html
+

@@ -1,0 +1,23 @@
+############
+Switzerland
+############
+
+
+.. raw:: html
+   :file: ../_static/plotly/switzerland-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/switzerland-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/switzerland-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/switzerland-percentage-difference-ratio.html
+

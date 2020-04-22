@@ -1,0 +1,23 @@
+##########
+Indonesia
+##########
+
+
+.. raw:: html
+   :file: ../_static/plotly/indonesia-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/indonesia-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/indonesia-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/indonesia-percentage-difference-ratio.html
+

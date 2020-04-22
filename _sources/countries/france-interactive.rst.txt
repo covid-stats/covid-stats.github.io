@@ -1,0 +1,23 @@
+#######
+France
+#######
+
+
+.. raw:: html
+   :file: ../_static/plotly/france-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/france-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/france-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/france-percentage-difference-ratio.html
+

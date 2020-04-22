@@ -1,0 +1,23 @@
+#####
+Iran
+#####
+
+
+.. raw:: html
+   :file: ../_static/plotly/iran-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/iran-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/iran-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/iran-percentage-difference-ratio.html
+

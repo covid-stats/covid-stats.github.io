@@ -1,0 +1,23 @@
+########
+Finland
+########
+
+
+.. raw:: html
+   :file: ../_static/plotly/finland-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/finland-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/finland-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/finland-percentage-difference-ratio.html
+

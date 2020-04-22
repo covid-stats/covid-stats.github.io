@@ -1,0 +1,23 @@
+########
+Czechia
+########
+
+
+.. raw:: html
+   :file: ../_static/plotly/czechia-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/czechia-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/czechia-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/czechia-percentage-difference-ratio.html
+

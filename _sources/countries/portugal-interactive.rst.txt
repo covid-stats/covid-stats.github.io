@@ -1,0 +1,23 @@
+#########
+Portugal
+#########
+
+
+.. raw:: html
+   :file: ../_static/plotly/portugal-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/portugal-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/portugal-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/portugal-percentage-difference-ratio.html
+

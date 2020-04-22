@@ -1,0 +1,23 @@
+######
+China
+######
+
+
+.. raw:: html
+   :file: ../_static/plotly/china-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/china-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/china-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/china-percentage-difference-ratio.html
+

@@ -1,0 +1,23 @@
+############
+New_Zealand
+############
+
+
+.. raw:: html
+   :file: ../_static/plotly/new_zealand-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/new_zealand-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/new_zealand-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/new_zealand-percentage-difference-ratio.html
+

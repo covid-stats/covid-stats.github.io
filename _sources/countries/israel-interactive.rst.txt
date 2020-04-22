@@ -1,0 +1,23 @@
+#######
+Israel
+#######
+
+
+.. raw:: html
+   :file: ../_static/plotly/israel-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/israel-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/israel-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/israel-percentage-difference-ratio.html
+

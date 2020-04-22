@@ -1,0 +1,23 @@
+#####
+Iraq
+#####
+
+
+.. raw:: html
+   :file: ../_static/plotly/iraq-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/iraq-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/iraq-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/iraq-percentage-difference-ratio.html
+

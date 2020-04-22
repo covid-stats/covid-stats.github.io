@@ -1,0 +1,23 @@
+##########
+Australia
+##########
+
+
+.. raw:: html
+   :file: ../_static/plotly/australia-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/australia-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/australia-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/australia-percentage-difference-ratio.html
+

@@ -1,0 +1,23 @@
+######
+India
+######
+
+
+.. raw:: html
+   :file: ../_static/plotly/india-per-day.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/india-cummulative.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/india-percentage-ratio.html
+
+
+
+.. raw:: html
+   :file: ../_static/plotly/india-percentage-difference-ratio.html
+
